@@ -9,7 +9,7 @@
             "name": "Application Access Based on Score",
             "description": "",
             "active": true,
-            "versionId": "1567046218760",
+            "versionId": "1569604647503",
             "restricted": false,
             "attributes": null,
             "metadata": null,
@@ -389,7 +389,7 @@
                                                             "id": "217:0",
                                                             "namespaceUsage": "PUBLIC",
                                                             "envInfo": null,
-                                                            "createdTime": "1569525794979",
+                                                            "createdTime": "1569604670996",
                                                             "workflowStatus": {},
                                                             "state": "PERMIT",
                                                             "fields": {
@@ -548,7 +548,7 @@
                                                             "id": "216:2",
                                                             "namespaceUsage": "PUBLIC",
                                                             "envInfo": null,
-                                                            "createdTime": "1569525794988",
+                                                            "createdTime": "1569604671005",
                                                             "workflowStatus": {},
                                                             "state": "PERMIT",
                                                             "fields": {
